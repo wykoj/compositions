@@ -5,3 +5,5 @@ wild_ground_fruit.txt 《野地果》閲讀紀錄 張煦日
 stem_team_agm_speech.txt 理工隊年度隊員大會科技分部隊長演講稿 蘇梓仁
 hiding.txt 網絡留言：論隱藏 蘇梓仁
 incense.txt 香 蘇梓仁
+five_second_dream.txt 五秒的夢 梁家齊
+five_second_dream_critic.txt 《五秒的夢》讀後感 梁皓然
